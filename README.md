@@ -9,13 +9,13 @@
 ![map4 3](https://user-images.githubusercontent.com/93224166/141875851-b844323c-6ca0-4587-b9d6-99dcc2530add.png)
 ![map4 4](https://user-images.githubusercontent.com/93224166/141875854-99fa4f51-028d-40bc-bde7-f4057ef07a6f.png)
 ![map4 5](https://user-images.githubusercontent.com/93224166/141875855-23a43803-2d12-4610-8a70-6fdd6dd1bbc1.png)
-13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
+### 13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio? ###
 
-15. Convierta 6700 watts-segundos en kWh
+### 15. Convierta 6700 watts-segundos en kWh ###
 
 6700 watt-segundo * 2,778x10^-7= 1.8x10^-3 kWh
 
-17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
+### 17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga? ###
 
 R=75 V/2 A =37.5Ω 
 
