@@ -19,5 +19,32 @@
 
 R=75 V/2 A =37.5Ω 
 
+27. Se conecta una fuente de 6 V a un resistor de 100 mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 . Determine lo siguiente: 
+a) Corriente 
+b) Caída de voltaje en el resistor 
+c) Caída de voltaje a través de cada tramo de alambre
+29. Calcule la resistencia de un reóstato para cada juego de valores de V e I
+
+31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+
+33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
+
+35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
+
+37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
+
+### Energía y Potencia 
+1.. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
+
+3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
+
+5. ¿A cuántos watts equivalen 1000 J en 50 ms?
+
+7. Convierta las siguientes cantidades en megawatts:
+
+9. Convierta las siguientes cantidades en microwatts: 
+
+12. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?
+
 
 
