@@ -9,25 +9,25 @@
 ![map4 3](https://user-images.githubusercontent.com/93224166/141875851-b844323c-6ca0-4587-b9d6-99dcc2530add.png)
 ![map4 4](https://user-images.githubusercontent.com/93224166/141875854-99fa4f51-028d-40bc-bde7-f4057ef07a6f.png)
 ![map4 5](https://user-images.githubusercontent.com/93224166/141875855-23a43803-2d12-4610-8a70-6fdd6dd1bbc1.png)
-### 13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio? ###
+**13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?**
 
-### 15. Convierta 6700 watts-segundos en kWh ###
+**15. Convierta 6700 watts-segundos en kWh**
 
 6700 watt-segundo * 2,778x10^-7= 1.8x10^-3 kWh
 
-### 17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga? ###
+**17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?**
 
 R=75 V/2 A =37.5Ω 
 
-27. Se conecta una fuente de 6 V a un resistor de 100 mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 . Determine lo siguiente: 
+**27. Se conecta una fuente de 6 V a un resistor de 100 mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 . Determine lo siguiente:** 
 a) Corriente 
 b) Caída de voltaje en el resistor 
 c) Caída de voltaje a través de cada tramo de alambre
-29. Calcule la resistencia de un reóstato para cada juego de valores de V e I
+**29. Calcule la resistencia de un reóstato para cada juego de valores de V e I**
 
-31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+**31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?**
 
-33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
+**33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?**
 
 35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
 
