@@ -58,6 +58,8 @@ c) Caída de voltaje a través de cada tramo de alambre
 
 **31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?**
 
+![EJERCICIO 31](https://user-images.githubusercontent.com/93951775/142357837-9d6ddc47-dedb-4832-8f87-1aecbfb368e5.jpg)
+
 **33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?**
 
 **35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.**
