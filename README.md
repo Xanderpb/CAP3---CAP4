@@ -130,15 +130,16 @@ c) Caída de voltaje a través de cada tramo de alambre
 https://youtu.be/hKnsjhxBUrQ
 
 ## 5. Concluiones
-*La ley de Ohm describe matemáticamente la relación entre voltaje, corriente y resistencia en un circuito, la ley de Ohm se expresa en tres formas equivalentes según qué cantidad se requiera determinar cómo se verá, la corriente y el voltaje son linealmentete proporcionales. Sin embargo, la corriente y la resistencia son inversamente proporcionales.
-
 * La intensidad es directamente proporcional al voltaje e inversamente proporcional a la resistencia
 * La energía es la capacidad de realizar trabajo, y potencia es la velocidad a la cual se utiliza la energía.
+* Potencia es la razón de cambio a la cual se utiliza la energía.
 * Al convinar la ley de Ohm con la ley de Watt podemos obtener nuevas formulas.
-* Las baterias se miden en Amperaje hora el cual 
+* Los resistores tienen resistencia y una potencia nominal.
+* La caída de voltaje es una disminución en el voltaje presente entre los extremos de un resistor, y es provocada por una pérdida de energía.
+* Un área superficial más grande de un resistor disipa más potencia
 
 ## 6. Bibliografia
-
+FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN, México, 2007 ISBN: 978-970-26-0967-4 Área: Ingeniería Formato: 21 × 27 cm Páginas: 968
 
 
 
