@@ -65,17 +65,36 @@ c) Caída de voltaje a través de cada tramo de alambre
 **37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?**
 
 ### Energía y Potencia 
-**1.. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.**
+**1.Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.**
+
+P = W/t  = 1/1 = 1w
 
 **3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?**
 
+P  = 350 J/s = 350W
+
 **5. ¿A cuántos watts equivalen 1000 J en 50 ms?**
+
+P = 1000/0.05 = 20000W
 
 **7. Convierta las siguientes cantidades en megawatts:**
 
-**9. Convierta las siguientes cantidades en microwatts:** 
+a) 1,000,000 W = 1 MW
+b) 3 * 106 W = 3 MW
+c) 15 * 107 W = 150 MW
+d) 8700 Kw = 8.7 MW
 
-**12. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?**
+**9. Convierta las siguientes cantidades en microwatts:**
+
+a) 2 W   =  2000000 uW
+b) 0.0005 W  = 500 uW
+c) 0.25 mW  = 250 uW
+d) 0.00667 mW = 6.67 uW
+
+**11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos
+joules de energía consume?**
+
+W= P*t  = 0.1*86400 = 8.640 J
 
 **13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?**
 * 1500 kW*h * 1 dia / 24h= 62.5 kW*dias
