@@ -194,7 +194,8 @@ https://youtu.be/hKnsjhxBUrQ
 * Los resistores tienen resistencia y una potencia nominal.
 * La caída de voltaje es una disminución en el voltaje presente entre los extremos de un resistor, y es provocada por una pérdida de energía.
 * Un área superficial más grande de un resistor disipa más potencia
-* Energía es la capacidad de realizar trabajo, y potencia es la razón de cambio a la cual se
+Potencia (P) es cierta cantidad de energía (W) utilizada en cierto tiempo (t) y con la formula de la potencia se concluye que todos los ejercicos del apartado 4-1 son los resultados esperados  ya que se cumple con la formula adecuada 
+*Energía es la capacidad de realizar trabajo, y potencia es la razón de cambio a la cual se
 utiliza la energía.
 
 ## 6. Bibliografia
