@@ -52,10 +52,21 @@ Analizar la ley de OHM, la energia y potencia para que sepamos como aplicarla me
 
 
 
-**27. Se conecta una fuente de 6 V a un resistor de 100 mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 . Determine lo siguiente:** 
-a) Corriente 
-b) Caída de voltaje en el resistor 
-c) Caída de voltaje a través de cada tramo de alambre
+**27. Se conecta una fuente de 6 V a un resistor de 100 Ω mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 Ω . Determine lo siguiente:** 
+* a) Corriente 
+* Utilizamos la ley de Ohm para calcular la intensidad
+* I= V/R
+* I= 6V / 100 Ω = 0.06 A o 60 mA
+
+* b) Caída de voltaje en el resistor 
+* Con la intensidad calculada le remplazamos en la formula para encontar la caida de voltaje
+* V= I*R
+* V= 60 mA * 100 Ω = 6 V
+
+* c) Caída de voltaje a través de cada tramo de alambre
+* La resistencai del alambre es 0.076 Ω
+* V = I*R
+* V= 60 mA * 0.076Ω = 4.61 mV
 
 **29. Calcule la resistencia de un reóstato para cada juego de valores de V e I**
 
