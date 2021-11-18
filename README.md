@@ -27,6 +27,26 @@ Analizar la ley de OHM, la energia y potencia para que sepamos como aplicarla me
 ![map4 5](https://user-images.githubusercontent.com/93224166/141875855-23a43803-2d12-4610-8a70-6fdd6dd1bbc1.png)
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
+![CAP3ejercicios](https://user-images.githubusercontent.com/93928146/142351703-43dbc9ad-fefc-4415-a4c4-dc91e3e43011.PNG)
+![CAP3ejercicios1](https://user-images.githubusercontent.com/93928146/142351711-13f89db5-74a2-44ee-b0a6-46d91b1118e0.PNG)
+![CAP3ejercicios2](https://user-images.githubusercontent.com/93928146/142351715-70d8542d-1f74-4095-9938-0f2030f68be5.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **27. Se conecta una fuente de 6 V a un resistor de 100 mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 . Determine lo siguiente:** 
 a) Corriente 
