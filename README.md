@@ -91,7 +91,7 @@ R = V/I   = 100/0.75  = 133.33 Ω
 * Rminima= 100Ω - 15Ω = 95Ω
 
 **37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?**
-* Lo primero que se hace es partir el circuito de luces en dos, entonces sera dos circuito de 16 focos, de ahi se parte en dos mas, quedando 4 circuitos de 8 focos, de ahi se parte en dos mas, quedando 8 circuitos de 4 focos y se empiza ha medir de izquierda ha derecha como el foco dañado el el 17 tendriamos que hacer **cinco** mediciones para encontrar el tramo del foco defectuoso.
+* Lo primero que se hace es partir el circuito de luces en dos, entonces sera dos circuito de 16 focos, de ahi se parte en dos mas, quedando 4 circuitos de 8 focos, de ahi se parte en dos mas, quedando 8 circuitos de 4 focos y se empieza ha medir de izquierda ha derecha como el foco dañado el el 17 tendriamos que hacer **cinco** mediciones para encontrar el tramo del foco defectuoso.
 
 ### Energía y Potencia 
 **1.Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.**
@@ -206,8 +206,8 @@ https://youtu.be/hKnsjhxBUrQ
 * Los resistores tienen resistencia y una potencia nominal.
 * La caída de voltaje es una disminución en el voltaje presente entre los extremos de un resistor, y es provocada por una pérdida de energía.
 * Un área superficial más grande de un resistor disipa más potencia
-Potencia (P) es cierta cantidad de energía (W) utilizada en cierto tiempo (t) y con la formula de la potencia se concluye que todos los ejercicos del apartado 4-1 son los resultados esperados  ya que se cumple con la formula adecuada 
-*Energía es la capacidad de realizar trabajo, y potencia es la razón de cambio a la cual se
+* Potencia (P) es cierta cantidad de energía (W) utilizada en cierto tiempo (t) y con la formula de la potencia se concluye que todos los ejercicos del apartado 4-1 son los resultados esperados  ya que se cumple con la formula adecuada 
+* Energía es la capacidad de realizar trabajo, y potencia es la razón de cambio a la cual se
 utiliza la energía.
 
 ## 6. Bibliografia
