@@ -9,6 +9,16 @@
 ![map4 3](https://user-images.githubusercontent.com/93224166/141875851-b844323c-6ca0-4587-b9d6-99dcc2530add.png)
 ![map4 4](https://user-images.githubusercontent.com/93224166/141875854-99fa4f51-028d-40bc-bde7-f4057ef07a6f.png)
 ![map4 5](https://user-images.githubusercontent.com/93224166/141875855-23a43803-2d12-4610-8a70-6fdd6dd1bbc1.png)
+
+*La relación de corriente, voltaje y resistencia*
+![CAP3ejercicios1](https://user-images.githubusercontent.com/93928146/142319355-868e9622-cbaa-4ae9-bc4c-cf5d2051ec7e.PNG)
+![CAP3ejercicios2](https://user-images.githubusercontent.com/93928146/142319369-4daaa456-0711-4406-8111-689c6cd4513c.PNG)
+![CAP3ejercicios](https://user-images.githubusercontent.com/93928146/142319372-db777c34-4abd-4b15-8a75-d51af0a4c7de.PNG)
+
+
+
+
+
 **13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?**
 
 **15. Convierta 6700 watts-segundos en kWh**
