@@ -67,6 +67,8 @@ c) Caída de voltaje a través de cada tramo de alambre
 
 ![EJERCICIO 31](https://user-images.githubusercontent.com/93951775/142357837-9d6ddc47-dedb-4832-8f87-1aecbfb368e5.jpg)
 
+R = V/I   = 120/0.8  = 150
+
 **33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?**
 
 ![EJERCICIO 33](https://user-images.githubusercontent.com/93951775/142357983-a23dd07f-12a0-48bd-8447-137d395996e5.JPG)
