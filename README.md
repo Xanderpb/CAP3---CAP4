@@ -10,6 +10,7 @@
 ### Objetivo General.
 Analizar la ley de OHM, la energia y potencia para que sepamos como aplicarla mediante la lectura y resolucion de ejercicios.
 ### Objetivos Especificos.
+- Explicar la ley de Ohm
 - Aprender como  el voltaje, la corriente y la resistencia están interrelacionados
 - Aplicar la ley de ohm para la resolucion ejercicios.
 - Distinguir la difernecia entre energia y potencia.
@@ -59,32 +60,38 @@ c) Caída de voltaje a través de cada tramo de alambre
 **29. Calcule la resistencia de un reóstato para cada juego de valores de V e I**
 
 * V = 10 V, I = 2 A  
-1. R = v/I  10/2 = 5 
+1. R = v/I  10/2 = 5 Ω
 *  V = 90 V, I = 45 A  
-2. R = v/I  90/45 = 2
+2. R = v/I  90/45 = 2 Ω
 *   V = 50 V, I = 5 A   
-3. R = v/I  50/5 = 10
+3. R = v/I  50/5 = 10 Ω
 *    V = 5.5 V, I = 10 A  
-4. R = v/I  5.5/10 = 0.55
+4. R = v/I  5.5/10 = 0.55 Ω
 *    V = 150 V, I = 0.5 A   
-5. R = v/I  150/0.5 = 300
+5. R = v/I  150/0.5 = 300 Ω
 
 
 **31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?**
 
 ![EJERCICIO 31](https://user-images.githubusercontent.com/93951775/142357837-9d6ddc47-dedb-4832-8f87-1aecbfb368e5.jpg)
 
-R = V/I   = 120/0.8  = 150
+R = V/I   = 120/0.8  = 150 Ω
 
 **33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?**
 
 ![EJERCICIO 33](https://user-images.githubusercontent.com/93951775/142357983-a23dd07f-12a0-48bd-8447-137d395996e5.JPG)
 
-R = V/I   = 100/0.75  = 133.33
+R = V/I   = 100/0.75  = 133.33 Ω
 
 **35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.**
+* Calculamos la resistencia
+* R= V / I
+* R= 110 V / 1 A = 100 Ω
+* Restamos la resistencia de la lampara de 15 Ω
+* Rminima= 100Ω - 15Ω = 95Ω
 
 **37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?**
+* Lo primero que se hace es partir el circuito de luces en dos, entonces sera dos circuito de 16 focos, de ahi se parte en dos mas, quedando 4 circuitos de 8 focos, de ahi se parte en dos mas, quedando 8 circuitos de 4 focos y se empiza ha medir de izquierda ha derecha como el foco dañado el el 17 tendriamos que hacer **cinco** mediciones para encontrar el tramo del foco defectuoso.
 
 ### Energía y Potencia 
 **1.Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.**
