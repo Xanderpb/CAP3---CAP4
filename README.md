@@ -73,6 +73,8 @@ R = V/I   = 120/0.8  = 150
 
 ![EJERCICIO 33](https://user-images.githubusercontent.com/93951775/142357983-a23dd07f-12a0-48bd-8447-137d395996e5.JPG)
 
+R = V/I   = 100/0.75  = 133.33
+
 **35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.**
 
 **37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?**
