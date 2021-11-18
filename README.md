@@ -2,7 +2,7 @@
 **INTEGRANTES**
 1. Araque Jaime
 2. Ballesteros Alexander
-3. Morales Kevin
+3. Morales Kevin 
 
 **NRC:** 10149
 ### Tema:  Ley de OHM, Energia y Potencia.
@@ -60,7 +60,8 @@ c) Caída de voltaje a través de cada tramo de alambre
 *  V = 90 V, I = 45 A   R = v/I  90/45 = 2
 *   V = 50 V, I = 5 A   R = v/I  50/5 = 10
 *    V = 5.5 V, I = 10 A   R = v/I  5.5/10 = 0.55
-*     V = 150 V, I = 0.5 A   R = v/I  150/0.5 = 300
+*    V = 150 V, I = 0.5 A   R = v/I  150/0.5 = 300
+
 
 **31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?**
 
