@@ -79,10 +79,10 @@ P = 1000/0.05 = 20000W
 
 **7. Convierta las siguientes cantidades en megawatts:**
 
-*1,000,000 W = 1 MW
-*3 * 106 W = 3 MW
-*15 * 107 W = 150 MW
-*8700 Kw = 8.7 MW
+*1,000,000 W = 1 MW 
+*3 * 106 W = 3 MW 
+*15 * 107 W = 150 MW 
+*8700 Kw = 8.7 MW 
 
 **9. Convierta las siguientes cantidades en microwatts:**
 
