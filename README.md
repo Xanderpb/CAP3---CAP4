@@ -155,7 +155,7 @@ https://youtu.be/hKnsjhxBUrQ
 * Potencia es la razón de cambio a la cual se utiliza la energía.
 * Al convinar la ley de Ohm con la ley de Watt podemos obtener nuevas formulas.
 * Los resistores tienen resistencia y una potencia nominal.
-* La caída de voltaje es una disminución en el voltaje presente entre los extremos de un resistor, y es provocada por una pérdida de energía.
+* La caída de voltaje es una disminución en el voltaje presente entre los extremos de un resistor, y es provocada por una pérdida de energía.
 * Un área superficial más grande de un resistor disipa más potencia
 
 ## 6. Bibliografia
