@@ -62,6 +62,8 @@ c) Caída de voltaje a través de cada tramo de alambre
 
 **33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?**
 
+![EJERCICIO 33](https://user-images.githubusercontent.com/93951775/142357983-a23dd07f-12a0-48bd-8447-137d395996e5.JPG)
+
 **35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.**
 
 **37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?**
