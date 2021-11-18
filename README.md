@@ -1,7 +1,7 @@
 # TAREA #2
 **INTEGRANTES**
 1. Araque Jaime
-2. Ballesteros Alexander
+2. ALEXANDER BALLESTEROS
 3. Morales Kevin 
 
 **NRC:** 10149
