@@ -79,17 +79,17 @@ P = 1000/0.05 = 20000W
 
 **7. Convierta las siguientes cantidades en megawatts:**
 
-a) 1,000,000 W = 1 MW
-b) 3 * 106 W = 3 MW
-c) 15 * 107 W = 150 MW
-d) 8700 Kw = 8.7 MW
+*1,000,000 W = 1 MW
+*3 * 106 W = 3 MW
+*15 * 107 W = 150 MW
+*8700 Kw = 8.7 MW
 
 **9. Convierta las siguientes cantidades en microwatts:**
 
-a) 2 W   =  2000000 uW
-b) 0.0005 W  = 500 uW
-c) 0.25 mW  = 250 uW
-d) 0.00667 mW = 6.67 uW
+* 2 W   =  2000000 uW
+* 0.0005 W  = 500 uW
+* 0.25 mW  = 250 uW
+* 0.00667 mW = 6.67 uW
 
 **11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos
 joules de energía consume?**
