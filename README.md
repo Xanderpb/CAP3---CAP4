@@ -58,3 +58,7 @@ c) Caída de voltaje a través de cada tramo de alambre
 
 
 
+
+CONCLUCIONES:
+.La ley de Ohm describe matemáticamente la relación entre voltaje, corriente y resistencia en un circuito, la ley de Ohm se expresa en tres formas equivalentes según qué cantidad se requiera determinar, como se verá, la corriente y el voltaje son linealmente proporcionales, sin embargo, la corriente y la resistencia son inversamente proporcionales. 
+
