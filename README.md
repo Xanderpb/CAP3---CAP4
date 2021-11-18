@@ -194,6 +194,8 @@ https://youtu.be/hKnsjhxBUrQ
 * Los resistores tienen resistencia y una potencia nominal.
 * La caída de voltaje es una disminución en el voltaje presente entre los extremos de un resistor, y es provocada por una pérdida de energía.
 * Un área superficial más grande de un resistor disipa más potencia
+* Energía es la capacidad de realizar trabajo, y potencia es la razón de cambio a la cual se
+utiliza la energía.
 
 ## 6. Bibliografia
 FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN, México, 2007 ISBN: 978-970-26-0967-4 Área: Ingeniería Formato: 21 × 27 cm Páginas: 968
