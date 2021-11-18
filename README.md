@@ -56,11 +56,11 @@ c) Caída de voltaje a través de cada tramo de alambre
 
 **29. Calcule la resistencia de un reóstato para cada juego de valores de V e I**
 
-•	V = 10 V, I = 2 A   R = v/I  10/2 = 5 
-•	V = 90 V, I = 45 A   R = v/I  90/45 = 2
-•	V = 50 V, I = 5 A   R = v/I  50/5 = 10
-•	V = 5.5 V, I = 10 A   R = v/I  5.5/10 = 0.55
-•	V = 150 V, I = 0.5 A   R = v/I  150/0.5 = 300
+* V = 10 V, I = 2 A   R = v/I  10/2 = 5 
+*  V = 90 V, I = 45 A   R = v/I  90/45 = 2
+*   V = 50 V, I = 5 A   R = v/I  50/5 = 10
+*    V = 5.5 V, I = 10 A   R = v/I  5.5/10 = 0.55
+*     V = 150 V, I = 0.5 A   R = v/I  150/0.5 = 300
 
 **31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?**
 
