@@ -57,6 +57,9 @@ c) Caída de voltaje a través de cada tramo de alambre
 **12. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?**
 
 **13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?**
+* 1500 kW*h * 1 dia / 24h= 62.5 kW*dias
+* Para calcular el consumo diaria lo que hacemos es dividir la energia por los dias de consumo
+* 62.5 kW*dias * 1/31 dias = 2.02 kW / dias
 
 **15. Convierta 6700 watts-segundos en kWh**
 
@@ -100,7 +103,12 @@ c) Caída de voltaje a través de cada tramo de alambre
 
 
 **31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?**
-
+* P= V^2 / R
+* P= 1,25 ^2 / 10
+* P= 0.1562 W
+* E= P*T= 0.1562 * 90 = 14.058 kW h
+* Para transformar de kilovatio hora o julio tenemos que multiplicar por 3.6 y con esto obtendremos el resultado en julio.
+* E= 14.058 kW h * 3.6 J= 50.61 J
 
 **33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?**
 * I= Ah/h
@@ -114,12 +122,18 @@ c) Caída de voltaje a través de cada tramo de alambre
 
 
 **37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?** 
+* 2 W * 60% = 1.2 W
+* 1.2W * 24 h * 1 dias = 0.05 kWh
 
 
 ## 4. Video
+https://youtu.be/hKnsjhxBUrQ
 
 ## 5. Concluiones
-* l
+* La intensidad es directamente proporcional al voltaje e inversamente proporcional a la resistencia
+* La energía es la capacidad de realizar trabajo, y potencia es la velocidad a la cual se utiliza la energía.
+* Al convinar la ley de Ohm con la ley de Watt podemos obtener nuevas formulas.
+* Las baterias se miden en Amperaje hora el cual 
 
 ## 6. Bibliografia
 
