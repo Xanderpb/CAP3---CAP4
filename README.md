@@ -20,6 +20,7 @@ Analizar la ley de OHM, la energia y potencia para que sepamos como aplicarla me
 ![PRIMERA PARTE CAP3](https://user-images.githubusercontent.com/93928146/141873585-a6485e17-3ec7-4a01-a01a-ec8a3541ab3e.PNG)
 ![SEGUNDA PARTE CAP3](https://user-images.githubusercontent.com/93928146/141873586-a7deffb1-65a0-4fc7-93c4-1afe5d5c95b7.PNG)
 ![TERCER PARTE CAP3](https://user-images.githubusercontent.com/93928146/141873591-19e98ea8-b510-4daa-bcd1-8a6ddc9050ba.PNG)
+![3-4 Calculo de la resistencia ](https://user-images.githubusercontent.com/93951775/142363586-569afd5d-0148-4f0a-8746-66524fb3582e.jpeg)
 ![map4 2](https://user-images.githubusercontent.com/93224166/141875858-b0a1f88f-1543-41d1-bad7-ac0a6a486298.png)
 ![watt](https://tallertronica.files.wordpress.com/2015/03/ohmslaw.png?w=764)
 ![map4 3](https://user-images.githubusercontent.com/93224166/141875851-b844323c-6ca0-4587-b9d6-99dcc2530add.png)
