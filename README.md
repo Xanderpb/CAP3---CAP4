@@ -30,6 +30,7 @@ Analizar la ley de OHM, la energia y potencia para que sepamos como aplicarla me
 ![CAP3ejercicios](https://user-images.githubusercontent.com/93928146/142351703-43dbc9ad-fefc-4415-a4c4-dc91e3e43011.PNG)
 ![CAP3ejercicios1](https://user-images.githubusercontent.com/93928146/142351711-13f89db5-74a2-44ee-b0a6-46d91b1118e0.PNG)
 ![CAP3ejercicios2](https://user-images.githubusercontent.com/93928146/142351715-70d8542d-1f74-4095-9938-0f2030f68be5.PNG)
+![CAP3ejercicios3](https://user-images.githubusercontent.com/93928146/142353436-65b496fb-a1e8-4ef4-984b-879a6abca750.PNG)
 
 
 
